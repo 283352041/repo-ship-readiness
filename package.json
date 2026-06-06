@@ -1,0 +1,24 @@
+{
+  "name": "repo-ship-readiness",
+  "version": "0.1.0",
+  "description": "Check whether a repository is ready to publish.",
+  "type": "module",
+  "bin": {
+    "ship-check": "./bin/ship-check.js"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node ./bin/ship-check.js"
+  },
+  "keywords": [
+    "developer-tools",
+    "ai",
+    "cli",
+    "github"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
