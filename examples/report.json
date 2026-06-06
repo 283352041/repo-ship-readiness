@@ -1,0 +1,17 @@
+{
+  "score": 86,
+  "results": [
+    {
+      "name": "README",
+      "pass": true
+    },
+    {
+      "name": "LICENSE",
+      "pass": true
+    },
+    {
+      "name": "examples",
+      "pass": false
+    }
+  ]
+}
